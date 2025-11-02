@@ -3,9 +3,7 @@
   "description": "tiny cli for who-that",
   "version": "0.1.0",
   "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "WTFPL",
   "main": "index.js",
@@ -14,12 +12,12 @@
     "start": "node index",
     "test": ""
   },
-  "homepage": "https://github.com/zacanger/who-that-cli#readme",
+  "homepage": "https://github.com/zautumnz/who-that-cli#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/who-that-cli.git"
+    "url": "https://github.com/zautumnz/who-that-cli.git"
   },
-  "bugs": "https://github.com/zacanger/who-that-cli/issues",
+  "bugs": "https://github.com/zautumnz/who-that-cli/issues",
   "keywords": [
     "cli",
     "github",
